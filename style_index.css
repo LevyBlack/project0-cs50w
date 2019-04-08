@@ -1,0 +1,21 @@
+
+.row > div {
+    padding: 20px;
+    background-color: lightgray;
+    border: 2px solid black;
+}
+.bor{
+    background-color: rgb(133, 233, 233);
+    border: 2px solid blue;
+}
+
+a::before{
+    content:" ";
+    font-weight: bold;
+
+}
+
+
+button:hover{
+    background:silver;
+}
